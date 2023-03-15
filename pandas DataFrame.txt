@@ -1,0 +1,2 @@
+在创建了DataFrame 对象的右边写上# type:pd.DataFrame
+就可以进行代码提示了
